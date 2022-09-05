@@ -1,1 +1,1 @@
-# an-app-to-rule-them-all-slides
+# An App to rule them all slides
