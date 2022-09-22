@@ -23,7 +23,6 @@ export default {
         <Cover />
         <Bio />
         <Plan />
-        <Thankings />
       </div>
     </div>
   </div>
