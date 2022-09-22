@@ -16,7 +16,7 @@ div.slide-cover {
 }
 
 div.slide-content {
-  @apply flex flex-col h-full content-center justify-center bg-white text-devoxx-purple;
+  @apply flex flex-col h-full bg-white text-devoxx-purple;
 }
 
 div.slide-title {

@@ -32,14 +32,14 @@ export default {
             href="https://twitter.com/DedieuS"
           >
             <img src="/src/assets/twitter.png" class="m0 w-8 md:w-16" />
-            <div class="ml-8 text-sky-500 text-xl md:text-4xl font-bold">@DedieuS</div>
+            <div class="ml-2 md:ml-8 text-sky-500 text-xl md:text-4xl font-bold">@DedieuS</div>
           </a>
           <a
             class="flex flex-row items-center mx-0"
             href="https://github.com/sdedieu"
           >
             <img src="/src/assets/github.png" class="m0 w-8 md:w-16" />
-            <div class="ml-8 text-black text-xl md:text-4xl font-bold">
+            <div class="ml-2 md:ml-8 text-black text-xl md:text-4xl font-bold">
               https://github.com/sdedieu
             </div>
           </a>
@@ -48,7 +48,7 @@ export default {
             href="mailto:sylvain.dedieu@kaizen-solutions.net"
           >
             <img src="/src/assets/Logo-Kaizen-black.png" class="m0 w-8 md:w-16" />
-            <div class="ml-8 text-kzn-teal text-xl md:text-4xl font-bold">
+            <div class="ml-2 md:ml-8 text-kzn-teal text-xl md:text-4xl font-bold">
               sylvain.dedieu@kaizen-solutions.net
             </div>
           </a>

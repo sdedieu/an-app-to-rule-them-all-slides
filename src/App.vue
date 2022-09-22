@@ -11,8 +11,8 @@ export default {
         <div class="absolute px-3 bottom-0 w-full bg-snowcamp-purple bg-opacity-90 z-50 flex items-center justify-between footer">
           <img
             class="left-4 w-12"
-            src="/src/assets/Logo-Kaizen-black.png"
-            alt="Kaizen Logo Black"
+            src="/src/assets/Logo-Kaizen-couleurs.png"
+            alt="Kaizen Logo Blanc"
           />
           <img
             class="rounded-md w-36 snowcamp-logo"
@@ -22,15 +22,7 @@ export default {
         </div>
         <Cover />
         <Bio />
-        <FromMonolithicToMicroservice />
-        <Microfrontends />
-        <OurChallenge />
-        <Modules />
-        <WebPackModuleFederation />
-        <AngularDemo />
-        <VueDemo />
-        <ReactDemo />
-        <AngularJsDemo />
+        <Plan />
         <Thankings />
       </div>
     </div>
